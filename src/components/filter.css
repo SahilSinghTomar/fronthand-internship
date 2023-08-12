@@ -1,0 +1,35 @@
+.filter-component {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 0 4px 8px rgba(0, 0, 0, 0.01);
+
+    margin-bottom: 5rem;
+}
+
+.filter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.apply-filter {
+    border-radius: 4px;
+    border: 1px solid #6f64f6;
+    padding: 1rem 2rem;
+    background-color: #6f64f6;
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.filter-title {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #b7b6bd;
+    margin-bottom: 0.5rem;
+}

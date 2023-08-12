@@ -1,0 +1,32 @@
+.search-component {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.search-heading {
+    font-size: 3rem;
+}
+
+.search {
+    display: flex;
+}
+
+.search-input {
+    border: 1px solid grey;
+    padding: 8px;
+    border-radius: 4px;
+    font-weight: 600;
+}
+
+
+.search-button {
+    background-color: transparent;
+    border: 1px solid grey;
+    color: #9850ff;
+    font-weight: 600;
+    padding: 1rem;
+    border-radius: 4px;
+    margin-left: 1rem;
+}
