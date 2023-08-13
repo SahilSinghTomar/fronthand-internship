@@ -20,6 +20,19 @@
     margin-right: auto;
 }
 
+.navbar__list-el {
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: black;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+.navbar__list-el:hover {
+    background-color: #6f64f6;
+    color: #fff;
+}
+
 .navbar__action-btn {
     margin-right: 4rem;
     display: flex;
