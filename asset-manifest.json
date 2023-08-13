@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fronthand-internship/static/css/main.adbd93ac.css",
-    "main.js": "/fronthand-internship/static/js/main.8c1862ff.js",
+    "main.css": "/fronthand-internship/static/css/main.e0d13e7b.css",
+    "main.js": "/fronthand-internship/static/js/main.357a0286.js",
     "index.html": "/fronthand-internship/index.html",
-    "main.adbd93ac.css.map": "/fronthand-internship/static/css/main.adbd93ac.css.map",
-    "main.8c1862ff.js.map": "/fronthand-internship/static/js/main.8c1862ff.js.map"
+    "main.e0d13e7b.css.map": "/fronthand-internship/static/css/main.e0d13e7b.css.map",
+    "main.357a0286.js.map": "/fronthand-internship/static/js/main.357a0286.js.map"
   },
   "entrypoints": [
-    "static/css/main.adbd93ac.css",
-    "static/js/main.8c1862ff.js"
+    "static/css/main.e0d13e7b.css",
+    "static/js/main.357a0286.js"
   ]
 }
