@@ -32,4 +32,12 @@
     font-weight: 500;
     color: #b7b6bd;
     margin-bottom: 0.5rem;
+
+}
+
+select {
+    border: 1px solid #6f64f6;
+    border-radius: 10px;
+    font-size: 1.7rem;
+    padding: 1rem;
 }

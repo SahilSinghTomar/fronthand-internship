@@ -5,11 +5,13 @@ import House from './components/House';
 import Houses from './components/Houses';
 import houseData from './data';
 import { useState } from 'react';
+import Footer from './components/Footer';
 
 const styleContainer = {
   maxWidth: '120rem',
   margin: 'auto',
   borderRadius: '4px',
+  marginBottom: '5rem',
 };
 
 function App() {
@@ -84,6 +86,7 @@ function App() {
           )}
         </Houses>
       </Container>
+      <Footer />
     </>
   );
 }
